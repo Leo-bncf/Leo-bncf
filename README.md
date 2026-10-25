@@ -56,14 +56,12 @@ Mathematics · Data analysis · Artificial intelligence · Programming · Optimi
 
 </div>
 
-## GitHub activity
+## GitHub stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Leo-bncf&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-bncf&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leo-bncf&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Leo-bncf&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Leo-bncf&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 
 </div>
 
